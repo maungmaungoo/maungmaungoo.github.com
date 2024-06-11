@@ -46,7 +46,7 @@ github_username: maungmaungoo
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jpg
+about_profile_image: images/profile.png
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Maung Maung Oo and I recently completed a Master of Computing from Edinburgh Napier University. I have a strong passion for traditional computing languages, particularly assembly and COBOL. In my free time, I enjoy reading and exploring new technologies, reflecting my enthusiasm for continuous learning and innovation in the tech field.
 
